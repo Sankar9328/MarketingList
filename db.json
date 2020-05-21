@@ -1,6 +1,6 @@
 {
  
-    { "guid": "IPWarming_DummyGUID_3","campaignName": "HomeBuyer" },
-	{ "guid": "IPWarming_DummyGUID_3","campaignName": "Refinance" },
+    [ "guid": "IPWarming_DummyGUID_3","campaignName": "HomeBuyer" ],
+	[ "guid": "IPWarming_DummyGUID_3","campaignName": "Refinance" ]
   
 }
