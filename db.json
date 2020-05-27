@@ -1,7 +1,7 @@
 {
  
-   "Leads": [ { "guid": "IPWarming_DummyGUID_3","campaignName": "HomeBuyer" },
-	{ "guid": "IPWarming_DummyGUID_3","campaignName": "Refinance" }
+   "Leads": [ { "guid": "IPWarming_DummyGUID_3","campaignName": "Qualified Borrower" },
+	{ "guid": "IPWarming_DummyGUID_3","campaignName": "Qualified Borrower" }
 	]
   
 }
