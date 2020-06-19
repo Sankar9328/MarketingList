@@ -1,7 +1,6 @@
 {
- 
-   "Leads": [ { "guid": "IPWarming_DummyGUID_3","campaignName": "Qualified Borrower" },
-	{ "guid": "IPWarming_DummyGUID_3","campaignName": "Qualified Borrower" }
-	]
-  
+    "ownerid@odata.bind":"https://mmdevphase2.api.crm.dynamics.com/api/data/v9.1/systemusers(BC632243-2652-EA11-A815-000D3A33E825)",
+    "subject": "Test Subject",
+    "description": "Test Description Vikash",
+    "scheduledend":"2019-06-28T22:57:53Z"
 }
